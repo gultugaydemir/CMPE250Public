@@ -3,8 +3,8 @@
 #include "BinarySearchTree1.h"
 using namespace std;
 
-static Node *DeleteNode(Node *tree);
-//static void GetPredecessor(Node *tree, int &data);
+// static Node *DeleteNode(Node *tree);
+// static void GetPredecessor(Node *tree, int &data);
 
 Node *Insert(Node *tree, int item) {
 	if (tree == NULL) {
@@ -48,7 +48,7 @@ void TraversePostorder(Node *tree) {
 	cout << tree->data << " ";
 }
 
-Node *Delete(Node *tree, int item) {}
+Node *Delete(Node *tree, int item) { return NULL;}
 	/*
 	if (item < tree->data) {
 		Delete(tree->left, item);

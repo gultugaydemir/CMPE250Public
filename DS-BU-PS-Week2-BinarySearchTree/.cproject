@@ -85,9 +85,19 @@
                         					
                     </folderInfo>
                     					
+                    <fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1519032415.1046166243" name="BinarySearchTree-ADT.h" rcbsApplicability="disable" resourcePath="BinarySearchTree-ADT.h" toolsToInvoke=""/>
+                    					
+                    <fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1519032415.1095475428" name="BinarySearchTree.h" rcbsApplicability="disable" resourcePath="BinarySearchTree.h" toolsToInvoke=""/>
+                    					
+                    <fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1519032415.6985472" name="BinarySearchTree1.cpp" rcbsApplicability="disable" resourcePath="BinarySearchTree1.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1453881889.736202472">
+                        						
+                        <tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1453881889.736202472" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1453881889"/>
+                        					
+                    </fileInfo>
+                    					
                     <sourceEntries>
                         						
-                        <entry excluding="BinarySearchTree1.cpp|Main1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        <entry excluding="BinarySearchTree1.cpp|Main-ADT.cpp|Main1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
                         					
                     </sourceEntries>
                     				
@@ -229,7 +239,21 @@
     	
     <storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
     	
-    <storageModule moduleId="refreshScope"/>
+    <storageModule moduleId="refreshScope" versionNumber="2">
+        		
+        <configuration configurationName="Debug">
+            			
+            <resource resourceType="PROJECT" workspacePath="/DS-BU-PS-Week2-BinarySearchTreee"/>
+            		
+        </configuration>
+        		
+        <configuration configurationName="Release">
+            			
+            <resource resourceType="PROJECT" workspacePath="/DS-BU-PS-Week2-BinarySearchTreee"/>
+            		
+        </configuration>
+        	
+    </storageModule>
     	
     <storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
     
